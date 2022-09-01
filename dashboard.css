@@ -475,3 +475,7 @@ p{
   line-height:1.35rem;
 	font-weight:300;
 }
+
+strong{
+	font-weight:800;
+}
