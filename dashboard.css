@@ -453,21 +453,28 @@ body{
 h1, h2, h3, h4, h5, h6{
   font-family:'Stag Sans Web';
   font-weight:bold;
+
 }
 
 h1{
   font-size:3.75rem;
-  line-height:4rem;
+  line-height:112.5%;
+	margin-bottom:1rem;
 }
 
 h2{
-  font-size:2rem;
-  line-height:2.25rem;
+	    font-size: 2.5rem;
+	    font-weight: 600;
+	    line-height: 100%;
+			margin-bottom:1rem;
+
 }
 
 h3{
-  font-size:1.75rem;
-  line-height:2rem;
+  font-size: 1.75rem;
+	line-height:1118.2%;
+	margin-bottom:1rem;
+
 }
 
 p,span,div,table,ul,a,li,ol,strong{
