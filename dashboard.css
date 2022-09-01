@@ -470,7 +470,7 @@ h3{
   line-height:2rem;
 }
 
-p,span,div,table,ul,a,li,ol{
+p,span,div,table,ul,a,li,ol,strong{
   font-size:1.35rem;
   line-height:1.35rem;
 	font-weight:300;
