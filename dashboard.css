@@ -442,7 +442,7 @@ table {
 
 
 
-body,*{
+body{
   font-family:'Stag Sans Web';
   color:#33424d;
   background:#F4F7F9;
@@ -470,10 +470,12 @@ h3{
   line-height:2rem;
 }
 
-p{
+p,span,div,table,ul,a,li,ol{
   font-size:1.35rem;
   line-height:1.35rem;
 	font-weight:300;
+	font-family:'Stag Sans Web';
+
 }
 
 strong{
