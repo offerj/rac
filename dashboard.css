@@ -460,6 +460,8 @@ h1{
   font-size:3.75rem;
   line-height:112.5%;
 	margin-bottom:1rem;
+	font-weight: 600;
+
 }
 
 h2{
@@ -472,8 +474,10 @@ h2{
 
 h3{
   font-size: 1.75rem;
-	line-height:1118.2%;
+	line-height:118.2%;
 	margin-bottom:1rem;
+	font-weight: 600;
+
 
 }
 
