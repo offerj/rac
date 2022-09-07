@@ -460,7 +460,7 @@ h1{
   font-size:3.75rem;
   line-height:112.5%;
 	margin-bottom:1rem;
-	font-weight: 600;
+	font-weight: 700;
 
 }
 
@@ -489,6 +489,21 @@ p,span,div,table,ul,a,li,ol,strong{
 
 }
 
-strong{
+strong, th{
 	font-weight:800;
+	text-align: left;
+}
+
+
+td,th{line-height:1.3rem;}
+td{margin-bottom:1rem;display:block;}
+
+
+
+
+.item{
+	background:#fff;
+	padding:1rem;
+	border:1px solid #D3D8DB;
+
 }
