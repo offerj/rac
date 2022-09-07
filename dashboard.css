@@ -450,7 +450,7 @@ body{
 
 }
 
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6, th, strong{
   font-family:'Stag Sans Web';
   font-weight:bold;
 
@@ -481,7 +481,7 @@ h3{
 
 }
 
-p,span,div,table,ul,a,li,ol,strong{
+p,span,div,table,ul,a,li,ol{
   font-size:1rem;
   line-height:1.2rem;
 	font-weight:300;
@@ -490,9 +490,9 @@ p,span,div,table,ul,a,li,ol,strong{
 }
 
 strong, th{
-	font-weight:800;
 	text-align: left;
-	font-family:'Stag Sans Web';
+	font-weight: 400;
+
 }
 
 
