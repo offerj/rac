@@ -492,6 +492,7 @@ p,span,div,table,ul,a,li,ol,strong{
 strong, th{
 	font-weight:800;
 	text-align: left;
+	font-family:'Stag Sans Web';
 }
 
 
